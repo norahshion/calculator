@@ -18,6 +18,7 @@
 ## xmlで作る簡単な電卓アプリ
 
 初心者でもわかりやすいよう、MainActivityとxmlのみで電卓アプリを作成しました
+https://youtu.be/hQxP4QAtIwE
 
 ## 環境
 
